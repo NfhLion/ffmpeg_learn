@@ -1,0 +1,3 @@
+/Users/fenghaining/audio_video/bili_code/dumpMeatData/build/CMakeFiles/meatData.dir
+/Users/fenghaining/audio_video/bili_code/dumpMeatData/build/CMakeFiles/edit_cache.dir
+/Users/fenghaining/audio_video/bili_code/dumpMeatData/build/CMakeFiles/rebuild_cache.dir

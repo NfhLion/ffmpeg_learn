@@ -1,0 +1,3 @@
+/Users/fenghaining/audio_video/bili_code/av_log_test/build/CMakeFiles/avLog.dir
+/Users/fenghaining/audio_video/bili_code/av_log_test/build/CMakeFiles/edit_cache.dir
+/Users/fenghaining/audio_video/bili_code/av_log_test/build/CMakeFiles/rebuild_cache.dir
